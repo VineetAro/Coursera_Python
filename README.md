@@ -1,2 +1,4 @@
 # Cousera_Python
-Rice University practice exercises.
+
+The Code in the mentioned repository can only run in "http://www.codeskulptor.org". 
+In order to access the code outside "codeskulper" one can change the library from simpleGUI to PyGame or tKinker.
